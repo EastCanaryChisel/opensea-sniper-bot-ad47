@@ -1,4 +1,4 @@
-# 
+# NFT-optimized opensea sniper bot | floor-price-tracking + metadata-parsing offers the most advanced opensea sniper bot, with floor-price-tracking and metadata-parsing. Ideal for
 
 
 
